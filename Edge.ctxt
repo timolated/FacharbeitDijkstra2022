@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Edge
+comment1.params=start\ end\ weight
+comment1.target=Edge(Node,\ Node,\ int)
+comment2.params=
+comment2.target=Node\ getStart()
+comment3.params=
+comment3.target=Node\ getEnd()
+comment4.params=
+comment4.target=int\ getWeight()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Node
+comment1.params=label
+comment1.target=Node(java.lang.String)
+comment2.params=label\ layout
+comment2.target=Node(java.lang.String,\ int[])
+comment3.params=
+comment3.target=java.lang.String\ getLabel()
+comment4.params=
+comment4.target=int[]\ getLayout()
+numComments=5

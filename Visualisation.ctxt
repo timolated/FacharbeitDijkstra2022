@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Visualisation
+comment1.params=
+comment1.target=Visualisation()
+comment2.params=
+comment2.target=void\ displayIndependent()
+comment3.params=node
+comment3.target=void\ addNode(Node)
+comment4.params=node\ classname
+comment4.target=void\ setNodeClass(Node,\ java.lang.String)
+comment5.params=edge
+comment5.target=void\ addEdge(Edge)
+comment6.params=edge\ classname
+comment6.target=void\ setEdgeClass(Edge,\ java.lang.String)
+comment7.params=
+comment7.target=org.graphstream.ui.view.View\ getView()
+numComments=8

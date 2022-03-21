@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Data
+comment1.params=
+comment1.target=Data()
+comment2.params=label\ layout
+comment2.target=void\ addNode(java.lang.String,\ int[])
+comment3.params=label
+comment3.target=void\ addNode(java.lang.String)
+comment4.params=start\ end\ weight
+comment4.target=void\ addEdge(java.lang.String,\ java.lang.String,\ int)
+comment5.params=
+comment5.target=Node[]\ getNodes()
+comment6.params=
+comment6.target=Edge[]\ getEdges()
+numComments=7
