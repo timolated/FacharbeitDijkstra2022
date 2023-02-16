@@ -12,6 +12,4 @@ comment5.params=edge
 comment5.target=void\ addEdge(Edge)
 comment6.params=edge\ classname
 comment6.target=void\ setEdgeClass(Edge,\ java.lang.String)
-comment7.params=
-comment7.target=org.graphstream.ui.view.View\ getView()
-numComments=8
+numComments=7
